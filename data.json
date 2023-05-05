@@ -1,0 +1,174 @@
+ {
+  "message": "Success",
+  "data": [
+    {
+      "faq_type_id": "e082cd96-d74c-4cc5-a9f5-20d13d006481",
+      "name": "Informasi Rumah Sakit",
+      "faqs": [
+        {
+          "faq_type_id": "e082cd96-d74c-4cc5-a9f5-20d13d006481",
+          "question": " Di mana ada lokasi Rumah Sakit Siloam?",
+          "answer": "<p>Ada 40 Rumah Sakit modern yang terdiri dari 13 Rumah Sakit di Jabodetabek dan 27 rumah sakit yang tersebar di Jawa, Sumatera, Kalimantan, Sulawesi, serta Bali dan Nusa Tenggara.</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "e082cd96-d74c-4cc5-a9f5-20d13d006481",
+          "question": " Apa jenis kamar rawat inap yang tersedia?",
+          "answer": "<p>Siloam Hospitals menawarkan banyak pilihan jenis kamar rawat inap. Silahkan pilih rumah sakit yang akan Anda kunjungi untuk mengetahui jenis kamar rawat inap yang ditawarkan di setiap unit.</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "e082cd96-d74c-4cc5-a9f5-20d13d006481",
+          "question": " Apa standar keamanan suplai darah yang diambil di rumah sakit?",
+          "answer": "<p>Untuk memastikan keamanan dan kualitas suplai darah, kami secara eksklusif menerima darah dari Palang Merah Indonesia (IRC,&nbsp;Palang Merah Indonesia&nbsp;atau PMI).</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "e082cd96-d74c-4cc5-a9f5-20d13d006481",
+          "question": " Fasilitas apa yang dimiliki pusat keunggulan Rumah Sakit?",
+          "answer": "<h3>Kardiologi</h3>\n<p>Berikut ini adalah beberapa fasilitas yang kami sediakan di <em>Cardiac Center</em> kami:</p>\n<ul>\n<li>Unit Perawatan Jantung (CCU) yang berfokus pada perawatan pasien setelah serangan jantung atau operasi jantung</li>\n<li>CT-Scan multi-irisan</li>\n<li>Ekokardiografi</li>\n<li>Elektrokardiogram (ECG)</li>\n<li>Pengobatan nuklir</li>\n<li><em>Cath Lab</em></li>\n<li>dan lainnya</li>\n</ul>\n<pre id=\"tw-target-text\" class=\"tw-data-text tw-text-large XcVN5d tw-ta\" dir=\"ltr\" data-placeholder=\"Translation\"></pre>\n<h3>Ilmu Saraf</h3>\n<p>Pusat Ilmu Sarah Siloam manawarkan perawatan lanjutan untuk:</p>\n<ul>\n<li>Operasi stereotaktik radiasi menggunakan pisau Gamma</li>\n<li><em>Hydrocephalus</em></li>\n</ul>\n<pre id=\"tw-target-text\" class=\"tw-data-text tw-text-large XcVN5d tw-ta\" dir=\"ltr\" data-placeholder=\"Translation\"></pre>\n<h3>Onkologi</h3>\n<p>Menggunakan teknologi medis terbaik, pusat onkologi kami menawarkan perawatan berikut:</p>\n<ul>\n<li><span class=\"Y2IQFc\" lang=\"id\"> Operasi radio pisau gamma </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Kedokteran nuklir menggunakan <em>PET-CT</em> dan<em> SPECT-CT Scan</em></span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Terapi radiasi dengan <em>Rapid Arc Linear Accelerator (LINAC)</em> </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Terapi radionuklida </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">dan lain-lain</span></li>\n</ul>\n<h3>Ortopedi</h3>\n<p><span class=\"Y2IQFc\" lang=\"id\">Pusat Keunggulan Siloam dalam Ortopedi menawarkan diagnosis, perawatan, dan rehabilitasi ahli untuk gangguan tulang, sendi, atau jaringan ikat: </span></p>\n<ul>\n<li><span class=\"Y2IQFc\" lang=\"id\">Pencegahan patah tulang osteoporosis, dilengkapi dengan <em>Bone Mass Densitometry </em>dan <em>Frax </em></span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Diagnosa cedera atau penyakit kompleks, dipandu oleh<em> CT Scan 2D/3D, 1,5 Tesla dan 3 Tesla MRI</em> </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Artroplasti revisi kompleks di pinggul dan lutut Operasi</span></li>\n<li><em><span class=\"Y2IQFc\" lang=\"id\">Replacement surgery</span></em></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Bedah invasif minimal </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Pusat rehabilitasi yang lengkap </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">dan lain-lain </span></li>\n</ul>\n<h3>Urologi</h3>\n<p><span class=\"Y2IQFc\" lang=\"id\">Berikut ini adalah beberapa layanan medis yang kami tawarkan di Pusat Urologi kami: </span></p>\n<ul>\n<li><span class=\"Y2IQFc\" lang=\"id\">Operasi laser lampu hijau </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\"><em>Extra Corporeal Shock Wave Lithotripsy (ESWL)</em> </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Rekonstruksi urologi </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Vasektomi </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">dan lain-lain </span></li>\n</ul>\n<h3>Keadaan Darurat</h3>\n<p><span class=\"Y2IQFc\" lang=\"id\">Pusat Darurat dan Trauma Siloam menyediakan perawatan medis darurat berkualitas tinggi, termasuk: S</span></p>\n<ul>\n<li><span class=\"Y2IQFc\" lang=\"id\">Spesialis yang bisa dipanggil 24 jam </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Layanan diagnostik (<em>X-ray, CT Scan, MRI</em>) yang berdekatan dengan Unit Gawat Darurat </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Layanan darurat khusus, termasuk Perawatan Kardiovaskular Akut, Manajemen Stroke Akut Komprehensif, Bedah Saraf, Bedah Ortopedi, Layanan Darurat Anak dan Perawatan Trauma </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">Layanan ambulans darat dan udara yang lengkap dengan tim yang berkualitas </span></li>\n<li><span class=\"Y2IQFc\" lang=\"id\">dan keadaan darurat lainnya</span></li>\n</ul>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "e082cd96-d74c-4cc5-a9f5-20d13d006481",
+          "question": "Apa standar kualitas yang dipatuhi oleh Siloam Hospitals?",
+          "answer": "<p>Siloam Hospitals mematuhi standar kualitas dari:</p>\n<ul>\n<li>Akreditasi Internasional Komisi Bersama</li>\n<li>Penelitian Berkualitas Masyarakat Eropa</li>\n<li>Komisi Akreditasi Rumah Sakit</li>\n<li>Keselamatan Pasien Asia</li>\n<li>Frost &amp; Sullivan</li>\n</ul>\n<p><strong>NOTE:</strong> Standar yang disebutkan di atas hanya berlaku untuk beberapa Siloam Hospitals</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "e082cd96-d74c-4cc5-a9f5-20d13d006481",
+          "question": "Metode pembayaran apa yang tersedia di Siloam Hospitals?",
+          "answer": "<p>Saat ini, kami menerima uang tunai dan sebagian besar kartu debit/ kredit. ATM tersedia di semua Siloam Hospitals.</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "e082cd96-d74c-4cc5-a9f5-20d13d006481",
+          "question": " Fasilitas apa yang disediakan di dalam kamar?",
+          "answer": "<p>Fasilitas yang disediakan berbeda-beda sesuai dengan jenis kamar dan rumah sakit. Namun pada umumnya, setiap kamar mempunyai kulkas mini, televisi, telepon, piyama untuk pasien, selimut, perlengkapan mandi, dan tisu. Mohon menghubungi perwakilan perawatan kami untuk mengetahui fasilitas khusus yang Anda butuhkan di kamar Anda.</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "e082cd96-d74c-4cc5-a9f5-20d13d006481",
+          "question": "Apakah merokok diperbolehkan di area rumah sakit?",
+          "answer": "<p>Untuk memastikan lingkungan yang sehat bagi pasien kami, kami melarang aksi merokok di area rumah sakit.</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "e082cd96-d74c-4cc5-a9f5-20d13d006481",
+          "question": " Berapa banyak pasien yang dirawat Siloam Hospitals setiap tahun?",
+          "answer": "<p><span class=\"title-header-m\"><span style=\"background-color: #ffffff; color: #595748;\">Saat ini, 40 Rumah Sakit Siloam melayani lebih dari 2,5 juta pasien setiap tahun.</span></span></p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "e082cd96-d74c-4cc5-a9f5-20d13d006481",
+          "question": " Apakah rumah sakit Siloam menawarkan perkiraan biaya perawatan?",
+          "answer": "<p>Ya, Anda dapat menanyakan kepada staff registrasi kami untuk mendapatkan perkiraan biaya sebelum perawatan Anda. Harap dicatata bahwa ada kemungkinan bahwa perkiraan biaya yang diberikan berbeda dari biaya akhir.</p>\n<div id=\"tw-ob\" class=\"tw-src-ltr\">\n<div class=\"oSioSc\">\n<div id=\"tw-target\">\n<div id=\"kAz1tf\" class=\"g9WsWb\">\n<div id=\"tw-target-text-container\" class=\"tw-ta-container F0azHf tw-nfl\" tabindex=\"0\">\n<pre id=\"tw-target-text\" class=\"tw-data-text tw-text-large XcVN5d tw-ta\" dir=\"ltr\" data-placeholder=\"Translation\"></pre>\n</div>\n</div>\n</div>\n</div>\n</div>",
+          "locale_code": "id"
+        }
+      ]
+    },
+    {
+      "faq_type_id": "848173bf-4e22-43aa-a071-894ba6fedc61",
+      "name": "Informasi Pasien",
+      "faqs": [
+        {
+          "faq_type_id": "848173bf-4e22-43aa-a071-894ba6fedc61",
+          "question": " Jenis asuransi kesehatan apa saja yang diterima di Siloam Hospitals?",
+          "answer": "<p>Kami menerima sebagian besar perusahaan asuransi kesehatan besar, baik lokal maupun internasional. Untuk daftar detailnya, mohon menghubungi Rumah Sakit kami.</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "848173bf-4e22-43aa-a071-894ba6fedc61",
+          "question": " Bagaimana jika dokter pilihan saya tidak tersedia?",
+          "answer": "<p>Jika dokter pilihan Anda tidak tersedia, Anda dapat memilih untuk menemui spesialis lain di rumah sakit atau menjadwalkan janji untuk kunjungan berikutnya. Silakan merujuk ke pertanyaan di atas tentang cara mengatur janji temu.</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "848173bf-4e22-43aa-a071-894ba6fedc61",
+          "question": " Saya tidak fasih berbahasa Indonesia. Bagaimana cara berkomunikasi dengan dokter?",
+          "answer": "<p>Sebagian besar dokter kami memiliki kemampuan berkomunikasi secara bilingual dan dapat berkomunikasi dalam bahasa Inggris. Selain itu, kami menyediakan juru bahasa Korea di Siloam Hospitals Lippo Village. Anda juga dapat menemukan spesialis Jepang di J-Clinic yang berlokasi di MRCCC Siloam Hospitals dan Siloam Hospitals Cikarang.</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "848173bf-4e22-43aa-a071-894ba6fedc61",
+          "question": " Barang apa saja yang perlu saya bawa ke Siloam Hospital?",
+          "answer": "<ul>\n<li>Kartu atau polis asuransi kesehatan Anda (jika ada)</li>\n<li>Formulir rujukan dari dokter Anda (jika diminta oleh operator asuransi Anda)</li>\n<li>Identifikasi pribadi Anda yang dikeluarkan pemerintah, termasuk paspor, kartu identitas tempat tinggal, atau SIM.</li>\n<li>Catatan medis Anda, sinar-X, atau hasil tes sebelumnya (jika diminta)</li>\n</ul>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "848173bf-4e22-43aa-a071-894ba6fedc61",
+          "question": " Apakah saya perlu membuat janji untuk bertemu dengan spesialis?",
+          "answer": "<p>Y<span class=\"Y2IQFc\" lang=\"id\">a, Anda disarankan untuk membuat janji terlebih dahulu untuk menghindari waktu tunggu yang lama dan memastikan bahwa spesialis yang akan Anda kunjungi tersedia. Anda dapat menghubungi saluran bantuan kami di +62-1500-181 dan berbicara dengan petugas layanan pelanggan kami yang akan memenuhi kebutuhan Anda atau membuat janji dari situs web kami dengan mengklik di<strong> <a href=\"siloamhospitals.com/cari-dokter\">sini</a></strong></span></p>",
+          "locale_code": "id"
+        }
+      ]
+    },
+    {
+      "faq_type_id": "cdccd7ef-7dd3-4737-8ba8-31595c0cba37",
+      "name": "Informasi Pengunjung",
+      "faqs": [
+        {
+          "faq_type_id": "cdccd7ef-7dd3-4737-8ba8-31595c0cba37",
+          "question": "Pada jam berapa pengunjung diperbolehkan untuk mengunjungi pasien?",
+          "answer": "<p>Harap dicatat bahwa Siloam Hospitals yang berbeda mungkin memiliki jam kunjungan yang berbeda. Silakan pilih rumah sakit yang akan Anda kunjungi untuk mengakses jam kunjungan masing-masing rumah sakit.</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "cdccd7ef-7dd3-4737-8ba8-31595c0cba37",
+          "question": "Apakah saya boleh memberikan bunga atau hadiah kepada pasien di Siloam Hospital?",
+          "answer": "<p><span class=\"Y2IQFc\" lang=\"id\">Secara umum, Hadiah boleh diberikan ke pasien di semua rumah sakit. Namun, bunga tidak diperbolehkan untuk pasien di Intensive Care Unit (ICU). Mohon menghubungi rumah sakit untuk memeriksa apakah bunga atau hadiah yang Anda bawa dapat mempengaruhi kesehatan pasien kami, karena beberapa pasien mungkin memiliki reaksi alergi terhadap barang-barang tertentu.</span></p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "cdccd7ef-7dd3-4737-8ba8-31595c0cba37",
+          "question": " Bagaimana saya bisa menghubungi pasien di Unit Perawatan Intensif?",
+          "answer": "<p>Karena telepon tidak disediakan untuk pasien di Intensive Care Unit (ICU), silakan hubungi kerabat pasien untuk meninggalkan pesan.</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "cdccd7ef-7dd3-4737-8ba8-31595c0cba37",
+          "question": "Apakah Anda memiliki daftar hotel dekat Rumah Sakit Siloam?",
+          "answer": "<p><span class=\"Y2IQFc\" lang=\"id\">Kami telah menyediakan beberapa daftar hotel untuk kenyamanan Anda. Mohon memilihRumah Sakit Siloam yang Anda ingin kunjungi sebelum mengakses daftar. Harap dicatat bahwa Siloam Hospitals tidak terhubung dengan hotel dengan cara apa pun. Akomodasi yang tercantum adalah saran berdasarkan kedekatannya dan bukan rekomendasi.</span></p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "cdccd7ef-7dd3-4737-8ba8-31595c0cba37",
+          "question": " Apakah tamu diizinkan untuk berkunjung setelah jam kerja?",
+          "answer": "<p><span class=\"Y2IQFc\" lang=\"id\">Dalam beberapa kasus, tamu tidak diizinkan untuk berkunjung setelah jam menjenguk untuk memastikan pemulihan kesehatan pasien. Namun, pengecualian diperbolehkan dalam beberapa kasus.</span></p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "cdccd7ef-7dd3-4737-8ba8-31595c0cba37",
+          "question": " Apakah anak-anak diperbolehkan mengunjungi pasien di Siloam Hospitals?",
+          "answer": "<p>Anak-anak diperbolehkan menjenguk pasien di Siloam Hospitals selama didampingi oleh orang dewasa. Di beberapa area di mana anak-anak dilarang masuk, pengecualian mungkin berlaku berdasarkan basis kasus per kasus. Silakan periksa dengan staff rumah sakit kami.</p>",
+          "locale_code": "id"
+        }
+      ]
+    },
+    {
+      "faq_type_id": "b99fbae5-1a87-40b5-bb2a-bb4b683f1d39",
+      "name": "Catatan Medis",
+      "faqs": [
+        {
+          "faq_type_id": "b99fbae5-1a87-40b5-bb2a-bb4b683f1d39",
+          "question": "Dokumen apa saja yang harus saya bawa saat ingin mengambil medical report/formulir asuransi/dokumen medis?",
+          "answer": "<p>Anda perlu membawa dokumen-dokumen berikut:</p>\n<ul>\n<li>ID Anda yang dikeluarkan pemerintah seperti paspor, kartu identitas tempat tinggal, Izin Tinggal Indonesia (KITAS) atau SIM</li>\n<li>Kartu Asuransi Kesehatan Anda (jika ada)</li>\n</ul>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "b99fbae5-1a87-40b5-bb2a-bb4b683f1d39",
+          "question": "Bagaimana cara saya meminta informasi medis saya?",
+          "answer": "<p>Anda dapat meminta informasi medis Anda dari dokter Anda ataudi Rumah Sakit tempat rekam medisa Anda berada.</p>",
+          "locale_code": "id"
+        },
+        {
+          "faq_type_id": "b99fbae5-1a87-40b5-bb2a-bb4b683f1d39",
+          "question": " Bagaimana saya bisa mendapatkan salinan rekam medis saya untuk diri saya sendiri atau untuk dikirimkan kepada orang lain selain diri saya sendiri, seperti dokter, pengacara, perusahaan asuransi atau orang lain?",
+          "answer": "<p>Karena masalah kerahasiaan, Anda harus datang sendiri untuk mendapatkan salinan rekam medis Anda. Anda kemudian dapat mengirimkannya ke orang atau entitas yang ditunjuk.</p>",
+          "locale_code": "id"
+        }
+      ]
+    }
+  ],
+  "status": 1
+}
