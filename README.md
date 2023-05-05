@@ -8,4 +8,4 @@ This is a single webpage which is intended to siloam's task
 3. Run `yarn dev`.
 
 ## Documentation
-- [Deploy](https://mysiloam-xi.vercel.app/)
+- [Deploy](https://mysiloam.vercel.app/)
