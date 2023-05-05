@@ -3,9 +3,9 @@ import Image from "next/image";
 import styles from "@/styles/Home.module.css";
 import Link from "next/link";
 import Layout from "@/components/Layout";
-import FirstSection from "@/components/content/firstSection";
+import FirstSection from "@/components/content/FirstSection";
 import SecSection from "@/components/content/SecSection";
-import ThirdSection from "@/components/content/thirdSection";
+import ThirdSection from "@/components/content/ThirdSection";
 import FourthSection from "@/components/content/FourthSection";
 import FifthSection from "@/components/content/FifthSection";
 
